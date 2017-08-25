@@ -1,0 +1,17 @@
+Date		Members Present									Time		Minutes		Topic	
+
+	
+20110428	Tucker Walker	Mark Franklin	Abby Richardson  				10:30 - 10:50	020		Project Design Meeting	
+20110503	Tucker Walker	Mark Franklin							15:15 - 17:15	120		UML Design
+20110504	Tucker Walker 									17:30 - 20:15	175		Vending Machine Class, Main Interface
+20110505	Tucker Walker 	Mark Franklin 	Abby Richardson		Cassidy Stevick 	09:30 - 11:00	090		Project Design and class/object integration
+20110505  			Mark Franklin							15:00 - 16:00	060		Cashbox Class, Coil class
+20110506	Tucker Walker	Mark Franklin							15:00 - 17:00	120		Integration of Cashbox, Coil, Vending Machine, and Main
+20110506  					Abby Richardson 	Cassidy Stevick		16:00 - 17:00	060		Coil Class and Item Class
+20110507	Tucker Walker 	Mark Franklin 	Abby Richardson 	Cassidy Stevick		10:00 - 12:30	150		Integration of Coil, Item, Cashbox, Coin, Vending Machine, and Main
+20110507	Tucker Walker									14:50 - 16:30	120		Debugging
+20110507	Tucker Walker									20:15 - 22:15	120		Debugging
+20110508	Tucker Walker									14:00 - 15:30	090		Polishing/Trying to break it
+20110508	Tucker Walker	Mark Franklin	Abby Richardson		Cassidy Stevick		17:30 - 19:00	090		Final touches, Polishing/Trying to break it
+
+*There were no conflicts or disagreements between group members.  This project was pretty seamless as to group cohesion.
