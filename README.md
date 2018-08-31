@@ -1,10 +1,12 @@
-# 2011_Whitworth_CS172_ComputerScienceII_FinalProject
+# 2011 Whitworth CS172 Computer Science II FinalProject
 
 The Final Project for my Computer Science II course taken at Whitworth University
 
-Functionally, this project is a computer-simulated, text-based vending machine. The user has the ability to run the machine in two modes depending on whether or not the front door is open. When it is shut, it operates in vending mode. The user may enter in a number of coins and press buttons labeled A through J, and 1 through 8 to select items they wish to purchase. They may also push the coin return button. When the door is open, the machine operates in restock mode. This mode allows the user to set prices, refill or add items to the vending machine, empty the cash box, or close the door. A more detailed description of its functionality can be found in the project_roposal.docx document.
+## Description
+A computer-simulated, text-based vending machine. The user has the ability to run the machine in two modes depending on whether or not the "front door" is open. When it is shut, it operates in vending mode. The user may enter in a number of coins and press buttons labeled A through J, and 1 through 8 to select items they wish to purchase. They may also push the coin return button. When the door is open, the machine operates in restock mode. This mode allows the user to set prices, refill or add items to the vending machine, empty the cash box, or close the door. A more detailed description of its functionality can be found in the project_roposal.docx document.
 
-Inside you will find:
+## Contents
+
   1.  Header Files
   2.  Implementation Files
   3.  project_presentation.pptx             - A powerpoint presentation used to orally present the group project
