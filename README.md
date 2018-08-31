@@ -1,4 +1,4 @@
-# 2011 Whitworth CS172 Computer Science II FinalProject
+# 2011 Whitworth CS172 Computer Science II Final Project
 
 The Final Project for my Computer Science II course taken at Whitworth University
 
